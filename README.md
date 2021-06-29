@@ -15,4 +15,5 @@ You need to make at least 7 unit tests and should develop your tests as you writ
 ## Submission Instruction
 Submit a link to the GitHub repository with a description of the project in the Readme and put at least one screenshot of your tests successfully passing.
 
-https://github.com/ierodriguez/Project1/issues/1#issue-932257609
+## Screenshot of successful test
+![image](https://github.com/ierodriguez/Project1/issues/1#issue-932257609)
