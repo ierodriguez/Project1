@@ -12,15 +12,6 @@ You need to make at least 7 unit tests and should develop your tests as you writ
 4. Your program works
 5. Your docker file is setup to run the program
 
-####Example Files and You Should try to make your own using Excel or Google docs.  You can simply just save the file as a CSV file::
-
-* [Unit Test Addition.csv](/data/Unit Test Addition.csv)
-* [Unit Test Subtraction.csv](./data/Unit Test Subtraction.csv)
-* [Unit Test Multiplication.csv](./data/Unit Test Multiplication.csv)
-* [Unit Test Division.csv](./data/Unit Test Division.csv)
-* [Unit Test Square.csv](./data/Unit Test Square.csv)
-* [Unit Test Square Root.csv](./data/Unit Test Square Root.csv)
-
 ## Submission Instruction
 Submit a link to the GitHub repository with a description of the project in the Readme and put at least one screenshot of your tests successfully passing.
 
